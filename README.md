@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -145,7 +144,7 @@
             </a>
 
             <a class="btn linkedin"
-               href="https://www.linkedin.com"
+               href="https://www.linkedin.com/in/iago-franco?utm_source=share_via&utm_content=profile&utm_medium=member_android"
                target="_blank">
                LinkedIn
             </a>
